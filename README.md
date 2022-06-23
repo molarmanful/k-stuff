@@ -1,2 +1,2 @@
 # k-stuff
-Learning K hands-on.
+Learning K (ngn/k) hands-on.
